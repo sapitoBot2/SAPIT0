@@ -69,16 +69,16 @@ hydratedTemplate: {
 hydratedContentText: menu,
 locationMessage: { 
 jpegThumbnail: fs.readFileSync('./Menu2.jpg') },
-hydratedFooterText: '©𝑆𝑖𝑚𝑝𝑙𝑒𝐵𝑜𝑡',
+hydratedFooterText: '©SapitoBot',
 hydratedButtons: [{
 urlButton: {
 displayText: '𝙶𝙸𝚃𝙷𝚄𝙱',
-url: 'https://github.com/BrunoSobrino/SimpleBot'
+url: 'https://github.com/sapitoBot2/Sapito'
 }},
 {
 urlButton: {
 displayText: '𝙲𝚁𝙴𝙰𝙳𝙾𝚁',
-url: 'https://wa.me/5219992095479'    
+url: 'https://wa.me/595983186566'    
 }},
 {
 quickReplyButton: {
