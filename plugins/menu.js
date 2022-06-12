@@ -18,7 +18,10 @@ let menu = `
 ╭══〘 ✯✯✯✯✯✯✯✯ 〙═╮
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ║➤ *✨𝗛ola, ${username}!!*
-║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+ Numero del creador del Bot: wa.me/595983186566
+ Numero del SubBot Oficial: No hay xdx.     
+ Numeor del Bot Oficial 
+║≡≡≡≡≡≡≡≡≡≡≡≡≡≡wa.me/595983186566
 ╰══╡✯✯✯✯✯✯✯✯╞══╯
 ┏━━━━━━━━━━━━━┓
 ┃ *< COMANDOS >*
@@ -56,16 +59,16 @@ let menu = `
 ┣ ඬ⃟💫 _${usedPrefix}earrape *[nota de voz]*_
 ┣ ඬ⃟💫 _${usedPrefix}reverse *[nota de voz]*_
 ┣ ඬ⃟💫 _${usedPrefix}smooth *[nota de voz]*_
-   cpmados +18
-   #pene
-   #pussy
-   #tetas
-   #culos
-   #semen
-   #4
-   #puta
-   #trans
-   #gay
+   
+   
+   
+   
+   
+   
+   
+ 
+
+
 ┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ┃ *< OWNER >*
 ┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
@@ -88,7 +91,7 @@ url: 'https://github.com/sapitoBot2/Sapito'
 {
 urlButton: {
 displayText: '𝙲𝚁𝙴𝙰𝙳𝙾𝚁',
-url: 'https://wa.me/595983186566'    
+url: '://wa.me/595983186566'    
 }},
 {
 quickReplyButton: {
