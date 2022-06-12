@@ -18,9 +18,12 @@ let menu = `
 ╭══〘 ✯✯✯✯✯✯✯✯ 〙═╮
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ║➤ *✨𝗛ola, ${username}!!*
- Numero del creador del Bot: wa.me/595983186566?text=hola👋
- Numero del SubBot Oficial: No hay xdx.     
- Numeor del Bot Oficial:wa.me/595983186566?text=love
+ 🗓️ _FECHA_: *${week}, ${date}*
+ ⏱️ _TIEMPO_ _ACTIVO_: *${uptime}*
+ 😈 _USUARIOS_: *${rtotalreg}*
+ *Numero del creador del Bot*: _wa.me/595983186566?text=hola_👋
+ *Numero del SubBot Oficial*: No hay xdx.     
+ Numeor del Bot Oficial:_wa.me/595983186566?text=love_
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ╰══╡✯✯✯✯✯✯✯✯╞══╯
 ┏━━━━━━━━━━━━━┓
