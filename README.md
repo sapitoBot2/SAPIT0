@@ -1,7 +1,7 @@
-# `💫 𝑆𝐼𝑀𝑃𝐿𝐸 - 𝐵𝑂𝑇 💫`
+# `💫 𝑆APITO - 𝐵OT 💫`
 
 ### `—◉ 👑 DUDAS SOBRE EL BOT?, CONTACTAME 👑`
-<a href="http://wa.me/5219992095479" target="blank"><img src="https://img.shields.io/badge/BRUNO_SOBRINO-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="http://wa.me/595983186566" target="blank"><img src="https://img.shields.io/badge/Sapito-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 > NO BOT
 
 ### `—◉ ✨ ACTIVAR EN HEROKU ✨`
@@ -30,8 +30,8 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > apt install nodejs -y
 > apt install ffmpeg -y
 > apt install imagemagick -y
-> git clone https://github.com/BrunoSobrino/SimpleBot
-> cd SimpleBot
+> git clone https://github.com/sapitoBot2/Sapito
+> cd Sapito
 > yarn install
 > npm install
 > npm update
@@ -42,7 +42,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd SimpleBot
+> cd Sapito
 > npm start
 ```
 
@@ -50,7 +50,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd SimpleBot
+> cd Sapito
 > rm -rf session.data.json
 > npm start
 ```
