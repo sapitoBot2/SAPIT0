@@ -19,6 +19,8 @@ let menu = `
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ║➤ *✨𝗛ola, ${username}!!*
 
+⏱️Hora: *%time*
+
 
  *Numero del creador del Bot*: _wa.me/595983186566?text=hola_👋
  
