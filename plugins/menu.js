@@ -18,9 +18,9 @@ let menu = `
 ╭══〘 ✯✯✯✯✯✯✯✯ 〙═╮
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ║➤ *✨𝗛ola, ${username}!!*
- Numero del creador del Bot: wa.me/595983186566
+ Numero del creador del Bot: wa.me/595983186566?text=hola👋
  Numero del SubBot Oficial: No hay xdx.     
- Numeor del Bot Oficial:wa.me/595983186566
+ Numeor del Bot Oficial:wa.me/595983186566?text=love
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ╰══╡✯✯✯✯✯✯✯✯╞══╯
 ┏━━━━━━━━━━━━━┓
