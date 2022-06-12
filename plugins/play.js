@@ -18,8 +18,8 @@ conn.sendFile(m.chat, thumb, 'error.jpg', `
 `.trim(), m, false, { 
 contextInfo: { externalAdReply: {
 title: 'ʀᴇᴘʀᴏᴅᴜᴄᴛᴏʀ ᴅᴇ ʏᴏᴜᴛᴜʙᴇ',
-body: '©𝑆𝑖𝑚𝑝𝑙𝑒𝐵𝑜𝑡', 
-sourceUrl: `https://github.com/BrunoSobrino/SimpleBot`, 
+body: '©𝑆apitoBot', 
+sourceUrl: `https://github.com/sapitoBot2/Sapito`, 
 thumbnail: fs.readFileSync('./Menu2.jpg') }}})
 conn.sendFile(m.chat, dl_link, title + '.mp' + (3 + /2$/.test(command)), `
 *📌 𝚃𝙸𝚃𝚄𝙻𝙾:* ${title}
