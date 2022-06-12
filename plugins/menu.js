@@ -18,7 +18,7 @@ let menu = `
 ╭══〘 ✯✯✯✯✯✯✯✯ 〙═╮
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ║➤ *✨𝗛ola, ${username}!!*
- ⏱️ _TIEMPO_ _ACTIVO_: *${uptime}*
+
  😈 _USUARIOS_: *${rtotalreg}*
  *Numero del creador del Bot*: _wa.me/595983186566?text=hola_👋
  *Numero del SubBot Oficial*: No hay xdx.     
