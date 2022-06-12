@@ -18,7 +18,7 @@ let menu = `
 ╭══〘 ✯✯✯✯✯✯✯✯ 〙═╮
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ║➤ *✨𝗛ola, ${username}!!*
- 🗓️ _FECHA_: *${week}, ${date}
+ 🗓️ _FECHA_: *${week} ${date}
  ⏱️ _TIEMPO_ _ACTIVO_: *${uptime}*
  😈 _USUARIOS_: *${rtotalreg}*
  *Numero del creador del Bot*: _wa.me/595983186566?text=hola_👋
