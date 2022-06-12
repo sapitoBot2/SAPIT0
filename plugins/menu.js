@@ -20,8 +20,8 @@ let menu = `
 ║➤ *✨𝗛ola, ${username}!!*
  Numero del creador del Bot: wa.me/595983186566
  Numero del SubBot Oficial: No hay xdx.     
- Numeor del Bot Oficial 
-║≡≡≡≡≡≡≡≡≡≡≡≡≡≡wa.me/595983186566
+ Numeor del Bot Oficial:wa.me/595983186566
+║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ╰══╡✯✯✯✯✯✯✯✯╞══╯
 ┏━━━━━━━━━━━━━┓
 ┃ *< COMANDOS >*
@@ -59,10 +59,26 @@ let menu = `
 ┣ ඬ⃟💫 _${usedPrefix}earrape *[nota de voz]*_
 ┣ ඬ⃟💫 _${usedPrefix}reverse *[nota de voz]*_
 ┣ ඬ⃟💫 _${usedPrefix}smooth *[nota de voz]*_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
    
    
    
-   
+ estos comados solo puede ser usado por el owner del boy
    
    
    
