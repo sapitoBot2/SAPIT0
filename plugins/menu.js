@@ -19,9 +19,11 @@ let menu = `
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ║➤ *✨𝗛ola, ${username}!!*
 
- 😈 _USUARIOS_: *${rtotalreg}*
+
  *Numero del creador del Bot*: _wa.me/595983186566?text=hola_👋
+ 
  *Numero del SubBot Oficial*: No hay xdx.     
+ 
  Numeor del Bot Oficial:_wa.me/595983186566?text=love_
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ╰══╡✯✯✯✯✯✯✯✯╞══╯
