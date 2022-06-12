@@ -72,7 +72,7 @@ const { state, saveState } = useSingleFileAuthState(global.authFile)
 const connectionOptions = {
   printQRInTerminal: true,
   auth: state,
-  browser: ['SIMPLE-BOT','Chrome','1.0.0'],
+  browser: ['SApito','Chrome','1.0.0'],
   // logger: pino({ level: 'trace' })
 }
 
@@ -129,7 +129,7 @@ global.reloadHandler = function (restatConn) {
   }
 
   conn.welcome = '*╔══════════════*\n*╟❧ @subject*\n*╠══════════════*\n*╟❧ @user*\n*╟❧ 𝙱𝙸𝙴𝙽𝚅𝙴𝙽𝙸𝙳𝙾/𝙰* \n*║*\n*╟❧ 𝙳𝙴𝚂𝙲𝚁𝙸𝙿𝙲𝙸𝙾𝙽 𝙳𝙴𝙻 𝙶𝚁𝚄𝙿𝙾:*\n*╟❧* @desc\n*║*\n*╟❧ 𝙳𝙸𝚂𝙵𝚁𝚄𝚃𝙰 𝚃𝚄 𝙴𝚂𝚃𝙰𝙳𝙸𝙰!!*\n*╚══════════════*'
-  conn.bye = '*╔══════════════*\n*╟❧ @user*\n*╟❧ 𝙷𝙰𝚂𝚃𝙰 𝙿𝚁𝙾𝙽𝚃𝙾 👋🏻* \n*╚══════════════*'  
+  conn.bye = '*╔══════════════*\n*╟❧ @user*\n*╟❧ Bye Pvto tqm no olvides tomar awita uwu 👋🏻* \n*╚══════════════*'  
   conn.spromote = '@user sekarang admin!'
   conn.sdemote = '@user sekarang bukan admin!'
   conn.handler = handler.handler.bind(conn)
