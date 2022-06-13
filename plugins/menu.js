@@ -21,13 +21,16 @@ let menu = `
 
 🗓️ FECHA: _HOY ES LUNES 14 DE JUNIO DEL 2022_
 
+*Suscríbete al canal oficial de SAPITOBOT©*
+_https://youtube.com/channel/UCcIQfBQ-F8R8LJFKUMUICkw_
+
 
 
  *Numero del creador del Bot*: _wa.me/595983186566?text=hola_👋
  
  *Numero del SubBot Oficial*: No hay xdx.     
  
- Numeor del Bot Oficial:_wa.me/595983186566?text=love_
+ Numero del Bot Oficial:_wa.me/595983186566?text=love_
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ╰══╡✯✯✯✯✯✯✯✯╞══╯
 ┏━━━━━━━━━━━━━┓
