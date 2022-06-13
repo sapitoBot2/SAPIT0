@@ -15,6 +15,11 @@ Ola Bro 👋
 
 ```
 
+###  Suscribete a mi canal de Youtube 👇
+https://youtube.com/channel/UCcIQfBQ-F8R8LJFKUMUICkw
+      
+
+
 ### `—◉ ⚙️ AJUSTES ⚙️`
 
 ### `—◉ 👾 ACTIVAR EN TERMUX 👾`
