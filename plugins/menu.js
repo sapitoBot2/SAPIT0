@@ -19,7 +19,7 @@ let menu = `
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ║➤ *✨𝗛ola, ${name}!!*
 
-🗓️ FECHA: _HOY ES LUNES 13 DE JUNIO DEL 2022_
+🗓️ FECHA: _HOY ES LUNES 14 DE JUNIO DEL 2022_
 
 
 
@@ -85,7 +85,7 @@ let menu = `
    
    
    
- estos comados solo puede ser usado por el owner del boy
+ estos comados solo puede ser usado por el owner del bot
    
    
    
@@ -109,7 +109,7 @@ hydratedFooterText: '©SapitoBot',
 hydratedButtons: [{
 urlButton: {
 displayText: '𝙶𝙸𝚃𝙷𝚄𝙱',
-url: 'https://github.com/sapitoBot2/Sapito'
+url: 'https://https://github.com/sapitoBot2/SAPIT0'
 }},
 {
 urlButton: {
