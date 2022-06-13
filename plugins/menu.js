@@ -19,7 +19,7 @@ let menu = `
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ║➤ *✨𝗛ola, ${username}!!*
 
-⏱️Hora: *{time}
+🗓️ FECHA: _HOY ES LUNES 13 DE JUNIO DEL 2022_
 
 
  *Numero del creador del Bot*: _wa.me/595983186566?text=hola_👋
