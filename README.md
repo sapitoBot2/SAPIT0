@@ -1,4 +1,4 @@
-# `💫 𝑆APITO - 𝐵OT 💫`
+# `💫 𝑆APITO - 𝐵OT© 💫`
 
 ### `—◉ 👑 DUDAS SOBRE EL BOT?, CONTACTAME 👑`
 <a href="http://wa.me/595983186566?text=Hola bro vengo de github" target="blank"><img src="https://img.shields.io/badge/Sapito-25D366?style=for-the-badge&logo=WhatsApp&logoColor=purple" /></a>
@@ -59,11 +59,11 @@ Ola Bro 👋
 
 Para saber mas sobre el Bot.     
 
-# ```https://youtu.be/o-YBDTqX_ZU```
+https://youtu.be/o-YBDTqX_ZU
 
-```
+
 
 ## `EDITOR Y PORPIETARIO DEL BOT` 
-[![Sapito}/) 
+[![Sapito
 
 `Simple - Bot By Sapito`
