@@ -51,7 +51,8 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > npm start
 ```
 
-Para saber mas sobre el Bot
+Para saber mas sobre el Bot.     
+
 https://youtu.be/o-YBDTqX_ZU
 
 
