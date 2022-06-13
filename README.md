@@ -35,16 +35,18 @@ Ola Bro 👋
 ```
 
 ### `—◉ ✔️ ACTIVAR EN CASO DE DETENERSE ✔️`
+# `ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:`
 ```bash
-ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
+
 > cd 
 > cd Sapito
 > npm start
 ```
 
 ### `—◉ 👽 OBTENER OTRO CODIGO QR 👽`
+# `ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:`
 ```bash
-ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
+
 > cd 
 > cd Sapito
 > rm -rf session.data.json
