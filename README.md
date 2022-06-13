@@ -1,7 +1,7 @@
 # `💫 𝑆APITO - 𝐵OT 💫`
 
 ### `—◉ 👑 DUDAS SOBRE EL BOT?, CONTACTAME 👑`
-<a href="http://wa.me/595983186566" target="blank"><img src="https://img.shields.io/badge/Sapito-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="http://wa.me/595983186566?text=Hola bro vengo de github" target="blank"><img src="https://img.shields.io/badge/Sapito-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 > NO BOT
 
 
