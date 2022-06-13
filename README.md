@@ -4,6 +4,7 @@
 <a href="http://wa.me/595983186566?text=Hola bro vengo de github" target="blank"><img src="https://img.shields.io/badge/Sapito-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 > NO BOT
 
+# `Me das una estrella 🌟 porfis 😽`
 
 ```bash
 Ola Bro 👋
@@ -13,8 +14,9 @@ Ola Bro 👋
 ### `—◉ ⚙️ AJUSTES ⚙️`
 
 ### `—◉ 👾 ACTIVAR EN TERMUX 👾`
+# `ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:`
 ```bash
-ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
+
 > cd
 > termux-setup-storage
 > apt update 
@@ -49,7 +51,8 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > npm start
 ```
 
-### `—◉ 🔥 Dame una estrella 🌟 porfis 😊 🔥`
+Para saber mas sobre el Bot
+https://youtu.be/o-YBDTqX_ZU
 
 
 
