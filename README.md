@@ -30,8 +30,8 @@ Ola Bro 👋
 > apt install nodejs -y
 > apt install ffmpeg -y
 > apt install imagemagick -y
-> git clone https://github.com/sapitoBot2/Sapito
-> cd Sapito
+> git clone https://github.com/sapitoBot2/SAPIT0
+> cd SAPIT0
 > yarn install
 > npm install
 > npm update
@@ -43,7 +43,7 @@ Ola Bro 👋
 ```bash
 
 > cd 
-> cd Sapito
+> cd SAPIT0
 > npm start
 ```
 
@@ -52,7 +52,7 @@ Ola Bro 👋
 ```bash
 
 > cd 
-> cd Sapito
+> cd SAPIT0
 > rm -rf session.data.json
 > npm start
 ```
