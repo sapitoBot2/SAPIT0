@@ -59,9 +59,9 @@ Ola Bro 👋
 
 Para saber mas sobre el Bot.     
 
-https://youtu.be/o-YBDTqX_ZU
+# ```https://youtu.be/o-YBDTqX_ZU```
 
-
+```
 
 ## `EDITOR Y PORPIETARIO DEL BOT` 
 [![Sapito}/) 
