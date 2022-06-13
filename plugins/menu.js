@@ -17,9 +17,10 @@ let username = conn.getName(who)
 let menu = `
 ╭══〘 ✯✯✯✯✯✯✯✯ 〙═╮
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
-║➤ *✨𝗛ola, ${username}!!*
+║➤ *✨𝗛ola, ${name}!!*
 
 🗓️ FECHA: _HOY ES LUNES 13 DE JUNIO DEL 2022_
+
 
 
  *Numero del creador del Bot*: _wa.me/595983186566?text=hola_👋
