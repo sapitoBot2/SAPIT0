@@ -71,7 +71,8 @@ USUARIO: ${name}😊
 ┣ ඬ⃟🔰_${usedPrefix}earrape *[nota de voz]*_
 ┣ ඬ⃟🔰 _${usedPrefix}reverse *[nota de voz]*_
 ┣ ඬ⃟🔰 _${usedPrefix}smooth *[nota de voz]*_
-
+┣ ඬ⃟🔰 _${usedPrefix}enable antilink_
+┣ ඬ⃟🔰 _${usedPrefix}disable antilink 
 
 
 
