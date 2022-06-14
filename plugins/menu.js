@@ -82,7 +82,7 @@ USUARIO: ${name}😊
 ┣ ඬ⃟🔊 ${usedPrefix}Desamor 
 ┣ ඬ⃟🔊 ${usedPrefix}NO DIGAS ESO PAPU 
 ┣ ඬ⃟🔊 ${usedPrefix}a
-
+┣ ඬ⃟🔊 ${usedPrefix}Murio el grupo 
 
 
 
