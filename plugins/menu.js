@@ -78,13 +78,14 @@ USUARIO: ${name}😊
 ┣ ඬ⃟🔰_${usedPrefix}gay_
 ┣ ඬ⃟🔰_${usedPrefix}report_
 ┣ ඬ⃟🔰_${usedPrefix}serbot_
-  _AUDIOS_ 🔊
-┣ ඬ⃟🔊 ${usedPrefix}Desamor 
-┣ ඬ⃟🔊 ${usedPrefix}NO DIGAS ESO PAPU 
-┣ ඬ⃟🔊 ${usedPrefix}a
-┣ ඬ⃟🔊 ${usedPrefix}Murio el grupo 
-┣ ඬ⃟🔊 ${usedPrefix}Yoshi.  
-┣ ඬ⃟🔊 ${usedPrefix}Calla fan de bts
+┣ ඬ⃟🔰_${usedPrefix}estado_
+  *AUDIOS* 🔊
+┣ ඬ⃟🔊 *${usedPrefix}Desamor_
+┣ ඬ⃟🔊 _${usedPrefix}NO DIGAS ESO PAPU_
+┣ ඬ⃟🔊 _${usedPrefix}a_
+┣ ඬ⃟🔊 _${usedPrefix}Murio el grupo_
+┣ ඬ⃟🔊 _${usedPrefix}Yoshi_
+┣ ඬ⃟🔊 _${usedPrefix}Calla fan de bts_
 
 
 
