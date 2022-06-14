@@ -74,6 +74,7 @@ USUARIO: ${name}😊
 ┣ ඬ⃟🔰 _${usedPrefix}enable antilink_
 ┣ ඬ⃟🔰 _${usedPrefix}disable antilink 
 ┣ ඬ⃟🔰_${usedPrefix}toplind@s_
+┣ ඬ⃟🔰_${usedPrefix}doxeo_
 
 
 
