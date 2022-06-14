@@ -80,6 +80,8 @@ USUARIO: ${name}😊
 ┣ ඬ⃟🔰_${usedPrefix}serbot_
   _AUDIOS_ 🔊
 ┣ ඬ⃟🔊 ${usedPrefix}Desamor 
+┣ ඬ⃟🔊 ${usedPrefix}NO DIGAS ESO PAPU 
+┣ ඬ⃟🔊 ${usedPrefix}a
 
 
 
