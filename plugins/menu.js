@@ -77,7 +77,7 @@ USUARIO: ${name}😊
 ┣ ඬ⃟🔰_${usedPrefix}doxeo_
 ┣ ඬ⃟🔰_${usedPrefix}gay_
 ┣ ඬ⃟🔰_${usedPrefix}report_
-
+┣ ඬ⃟🔰_${usedPrefix}serbot_
 
 
 
