@@ -22,14 +22,21 @@ https://youtube.com/channel/UCcIQfBQ-F8R8LJFKUMUICkw
 
 ### `—◉ ⚙️ AJUSTES ⚙️`
 
-### `Requisito Para istalar el Bot.    
-√Termux
+### `💥 𝐑𝐄𝐐𝐔𝐈𝐒𝐈𝐓𝐎𝐒 𝐏𝐀𝐑𝐀 𝐋𝐀 𝐈𝐍𝐒𝐓𝐀𝐋𝐀𝐂𝐈𝐎𝐍 💥
 
-√1.5GB de memoria en el telefono.    
+➤ Termux  
 
-√Un WhatsApp secundario. 
+➤ 1 GB de memoria en el teléfono
 
-√2 telefonos o 1 telefono y una pc`
+➤ Aconsejable un WhatsApp secundario
+
+➤ Aconsejable un numero secundario
+
+➤ 2 teléfonos o un 1 teléfono y una PC (es temporal - solo para escanear un código QR)
+
+
+
+
 
 ### `—◉ 👾 ACTIVAR EN TERMUX 👾`
 # `ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:`
