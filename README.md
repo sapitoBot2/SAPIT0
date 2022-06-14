@@ -22,6 +22,15 @@ https://youtube.com/channel/UCcIQfBQ-F8R8LJFKUMUICkw
 
 ### `—◉ ⚙️ AJUSTES ⚙️`
 
+### `Requisito Para istalar el Bot.    
+√Termux
+
+√1.5GB de memoria en el telefono.    
+
+√Un WhatsApp secundario. 
+
+√2 telefonos o 1 telefono y una pc`
+
 ### `—◉ 👾 ACTIVAR EN TERMUX 👾`
 # `ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:`
 ```bash
