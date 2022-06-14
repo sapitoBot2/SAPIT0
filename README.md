@@ -8,7 +8,7 @@
 
 @Psto36_5
 
-# `Me das una estrella 🌟 porfis 😽`
+# `Me das una estrella 🌟 porfis 😽`.            
 
 ```bash
 Ola Bro 👋
@@ -89,4 +89,4 @@ https://youtu.be/o-YBDTqX_ZU
 ## `EDITOR Y PORPIETARIO DEL BOT` 
 [![Sapito
 
-`Simple - Bot By Sapito`
+`SapitoBot©- Bot By Sapito`
