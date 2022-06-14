@@ -83,6 +83,8 @@ USUARIO: ${name}😊
 ┣ ඬ⃟🔊 ${usedPrefix}NO DIGAS ESO PAPU 
 ┣ ඬ⃟🔊 ${usedPrefix}a
 ┣ ඬ⃟🔊 ${usedPrefix}Murio el grupo 
+┣ ඬ⃟🔊 ${usedPrefix}Yoshi.  
+┣ ඬ⃟🔊 ${usedPrefix}Calla fan de bts
 
 
 
