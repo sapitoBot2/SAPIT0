@@ -86,7 +86,7 @@ USUARIO: ${name}😊
 ┣ ඬ⃟🔊 _${usedPrefix}Murio el grupo_
 ┣ ඬ⃟🔊 _${usedPrefix}Yoshi_
 ┣ ඬ⃟🔊 _${usedPrefix}Calla fan de bts_
-┣ ඬ⃟🔊 _${usedPrefix}Quitatelaropapeter_
+┣ ඬ⃟🔊 _${usedPrefix}Quitate la ropa peter 
 
 
 
