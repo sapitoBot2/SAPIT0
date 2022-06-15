@@ -79,6 +79,7 @@ USUARIO: ${name}😊
 ┣ ඬ⃟🔰_${usedPrefix}report_
 ┣ ඬ⃟🔰_${usedPrefix}serbot_
 ┣ ඬ⃟🔰_${usedPrefix}estado_
+┣ ඬ⃟🔰_${usedPrefix}Terminos y condiciones 
   *AUDIOS* 🔊
 ┣ ඬ⃟🔊 *${usedPrefix}Desamor_
 ┣ ඬ⃟🔊 _${usedPrefix}NO DIGAS ESO PAPU_
