@@ -19,7 +19,7 @@ let menu = `
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ║➤ *✨OLA 👋, ${name}!!*
 
-🗓️ FECHA: _HOY ES LUNES 14 DE JUNIO DEL 2022_
+🗓️ FECHA: _HOY ES LUNES 15 DE JUNIO DEL 2022_
 
 *Suscríbete al canal oficial de SAPITOBOT©*
 _https://youtube.com/channel/UCcIQfBQ-F8R8LJFKUMUICkw_
