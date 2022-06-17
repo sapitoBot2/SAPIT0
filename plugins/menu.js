@@ -93,6 +93,8 @@ USUARIO: ${name}😊
 ┣ ඬ⃟🔊 _${usedPrefix}Calla fan de bts_
 ┣ ඬ⃟🔊 _${usedPrefix}Quitate la ropa peter 
 ┣ ඬ⃟🔊 _${usedPrefix}Masivo/Bv_
+Ningún audio funciona !😞
+
 
 
 
