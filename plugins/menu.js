@@ -81,7 +81,8 @@ USUARIO: ${name}😊
 ┣ ඬ⃟🔰_${usedPrefix}estado_
 ┣ ඬ⃟🔰_${usedPrefix}Terminos y condiciones_
 ┣ ඬ⃟🔰_${usedPrefix}¿Que es un Bot?
-┣ ඬ⃟🔰_${usedPrefix}perfil
+┣ ඬ⃟🔰_${usedPrefix}perfil.  
+┣ ඬ⃟🔰topotakus
 
   *AUDIOS* 🔊
   
